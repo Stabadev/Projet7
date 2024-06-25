@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/a3705918f8ef4362aab0b7f8f53c2f54/artifacts
+end_time: 1719296209569
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: a3705918f8ef4362aab0b7f8f53c2f54
+run_name: invincible-ray-625
+run_uuid: a3705918f8ef4362aab0b7f8f53c2f54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719296207758
+status: 3
+tags: []
+user_id: alexandre

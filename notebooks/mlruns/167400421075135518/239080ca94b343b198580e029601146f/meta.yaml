@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/239080ca94b343b198580e029601146f/artifacts
+end_time: 1718983085228
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 239080ca94b343b198580e029601146f
+run_name: intrigued-boar-333
+run_uuid: 239080ca94b343b198580e029601146f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718983083405
+status: 3
+tags: []
+user_id: alexandre

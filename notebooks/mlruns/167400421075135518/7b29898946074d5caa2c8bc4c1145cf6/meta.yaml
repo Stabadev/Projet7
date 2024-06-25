@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/7b29898946074d5caa2c8bc4c1145cf6/artifacts
+end_time: 1718978005094
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 7b29898946074d5caa2c8bc4c1145cf6
+run_name: gentle-deer-520
+run_uuid: 7b29898946074d5caa2c8bc4c1145cf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718977925605
+status: 3
+tags: []
+user_id: alexandre

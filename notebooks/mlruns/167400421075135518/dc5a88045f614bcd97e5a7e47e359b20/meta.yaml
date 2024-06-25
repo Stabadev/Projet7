@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/dc5a88045f614bcd97e5a7e47e359b20/artifacts
+end_time: 1718979803822
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: dc5a88045f614bcd97e5a7e47e359b20
+run_name: unequaled-bat-126
+run_uuid: dc5a88045f614bcd97e5a7e47e359b20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718979802723
+status: 3
+tags: []
+user_id: alexandre

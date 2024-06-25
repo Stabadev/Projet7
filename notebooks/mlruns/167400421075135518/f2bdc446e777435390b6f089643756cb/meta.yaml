@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/f2bdc446e777435390b6f089643756cb/artifacts
+end_time: 1718978408940
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: f2bdc446e777435390b6f089643756cb
+run_name: skillful-fowl-444
+run_uuid: f2bdc446e777435390b6f089643756cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718978407117
+status: 3
+tags: []
+user_id: alexandre

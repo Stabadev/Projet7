@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/c7e122f468bb4e54b5455c25ce0da3e8/artifacts
+end_time: 1718978159236
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: c7e122f468bb4e54b5455c25ce0da3e8
+run_name: adorable-cat-420
+run_uuid: c7e122f468bb4e54b5455c25ce0da3e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718978157080
+status: 3
+tags: []
+user_id: alexandre

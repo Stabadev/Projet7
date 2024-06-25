@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/e70f8df08a2e4ca790f923f89e8cc5fb/artifacts
+end_time: 1719214528005
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: e70f8df08a2e4ca790f923f89e8cc5fb
+run_name: mercurial-kite-566
+run_uuid: e70f8df08a2e4ca790f923f89e8cc5fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719214496422
+status: 3
+tags: []
+user_id: alexandre

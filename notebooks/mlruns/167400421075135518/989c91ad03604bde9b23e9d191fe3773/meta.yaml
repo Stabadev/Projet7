@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/989c91ad03604bde9b23e9d191fe3773/artifacts
+end_time: 1718959680643
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 989c91ad03604bde9b23e9d191fe3773
+run_name: luminous-dolphin-305
+run_uuid: 989c91ad03604bde9b23e9d191fe3773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718959439180
+status: 3
+tags: []
+user_id: alexandre

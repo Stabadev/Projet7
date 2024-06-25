@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/b97c006f97f34d3ebb179ae2215b1940/artifacts
+end_time: 1718977724236
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: b97c006f97f34d3ebb179ae2215b1940
+run_name: burly-croc-839
+run_uuid: b97c006f97f34d3ebb179ae2215b1940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718977641539
+status: 3
+tags: []
+user_id: alexandre

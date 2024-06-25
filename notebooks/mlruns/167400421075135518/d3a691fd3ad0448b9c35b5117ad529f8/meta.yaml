@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/d3a691fd3ad0448b9c35b5117ad529f8/artifacts
+end_time: 1719216904925
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: d3a691fd3ad0448b9c35b5117ad529f8
+run_name: stately-hog-966
+run_uuid: d3a691fd3ad0448b9c35b5117ad529f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719216903790
+status: 3
+tags: []
+user_id: alexandre

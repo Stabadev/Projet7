@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/56c847d6933b48aaa1a56e4d1e8a0942/artifacts
+end_time: 1718974490019
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 56c847d6933b48aaa1a56e4d1e8a0942
+run_name: treasured-flea-226
+run_uuid: 56c847d6933b48aaa1a56e4d1e8a0942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718974487432
+status: 3
+tags: []
+user_id: alexandre

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/230f40f4a4834a9c9a2fb1fe6aea1bd0/artifacts
+end_time: 1718979807554
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 230f40f4a4834a9c9a2fb1fe6aea1bd0
+run_name: worried-sponge-446
+run_uuid: 230f40f4a4834a9c9a2fb1fe6aea1bd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718979803833
+status: 3
+tags: []
+user_id: alexandre

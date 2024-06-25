@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/a9daa7ba88ed449d943a365e0679f6c4/artifacts
+end_time: 1718980114750
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: a9daa7ba88ed449d943a365e0679f6c4
+run_name: silent-vole-397
+run_uuid: a9daa7ba88ed449d943a365e0679f6c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718979835549
+status: 3
+tags: []
+user_id: alexandre

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/e4fd05e76fec4d01a7e20cbaa81c1558/artifacts
+end_time: 1718978975754
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: e4fd05e76fec4d01a7e20cbaa81c1558
+run_name: polite-hound-436
+run_uuid: e4fd05e76fec4d01a7e20cbaa81c1558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718978768375
+status: 3
+tags: []
+user_id: alexandre

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/1945f65e914a47c18613553e12f8918e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 1945f65e914a47c18613553e12f8918e
+run_name: angry-yak-936
+run_uuid: 1945f65e914a47c18613553e12f8918e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718959204904
+status: 1
+tags: []
+user_id: alexandre

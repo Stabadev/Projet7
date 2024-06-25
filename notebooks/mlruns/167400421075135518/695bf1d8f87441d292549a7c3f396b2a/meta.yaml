@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/695bf1d8f87441d292549a7c3f396b2a/artifacts
+end_time: 1718974482936
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 695bf1d8f87441d292549a7c3f396b2a
+run_name: merciful-shoat-384
+run_uuid: 695bf1d8f87441d292549a7c3f396b2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718974481338
+status: 3
+tags: []
+user_id: alexandre

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/c6bab9fc324c4526a03d763c1f93eccd/artifacts
+end_time: 1718974949061
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: c6bab9fc324c4526a03d763c1f93eccd
+run_name: placid-panda-179
+run_uuid: c6bab9fc324c4526a03d763c1f93eccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718974824462
+status: 4
+tags: []
+user_id: alexandre

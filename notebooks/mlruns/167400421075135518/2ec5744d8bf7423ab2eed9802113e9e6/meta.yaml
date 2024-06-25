@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/2ec5744d8bf7423ab2eed9802113e9e6/artifacts
+end_time: 1718978753913
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 2ec5744d8bf7423ab2eed9802113e9e6
+run_name: unequaled-ox-584
+run_uuid: 2ec5744d8bf7423ab2eed9802113e9e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718978751486
+status: 3
+tags: []
+user_id: alexandre

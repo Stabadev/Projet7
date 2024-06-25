@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/aa84518fb81344bcac2aa004bd817ec4/artifacts
+end_time: 1718975465254
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: aa84518fb81344bcac2aa004bd817ec4
+run_name: invincible-bear-709
+run_uuid: aa84518fb81344bcac2aa004bd817ec4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718975335255
+status: 3
+tags: []
+user_id: alexandre

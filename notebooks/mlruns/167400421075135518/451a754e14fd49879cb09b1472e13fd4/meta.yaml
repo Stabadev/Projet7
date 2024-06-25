@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/451a754e14fd49879cb09b1472e13fd4/artifacts
+end_time: 1718983089305
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 451a754e14fd49879cb09b1472e13fd4
+run_name: vaunted-goose-115
+run_uuid: 451a754e14fd49879cb09b1472e13fd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718983086589
+status: 3
+tags: []
+user_id: alexandre

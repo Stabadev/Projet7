@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/972f5f6197a54fbebcc2941f55a458df/artifacts
+end_time: 1718977919818
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 972f5f6197a54fbebcc2941f55a458df
+run_name: burly-sheep-112
+run_uuid: 972f5f6197a54fbebcc2941f55a458df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718977918660
+status: 3
+tags: []
+user_id: alexandre

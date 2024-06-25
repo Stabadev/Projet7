@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/a3a6aaff61e74d83aa5b241fefa5d214/artifacts
+end_time: 1718978414994
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: a3a6aaff61e74d83aa5b241fefa5d214
+run_name: selective-grouse-849
+run_uuid: a3a6aaff61e74d83aa5b241fefa5d214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718978408949
+status: 3
+tags: []
+user_id: alexandre

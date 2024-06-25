@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/8de9ca007ebb4deaa0a752de10cbc25e/artifacts
+end_time: 1719296212782
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 8de9ca007ebb4deaa0a752de10cbc25e
+run_name: clean-rook-337
+run_uuid: 8de9ca007ebb4deaa0a752de10cbc25e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719296209578
+status: 3
+tags: []
+user_id: alexandre

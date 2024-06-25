@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/d56ddd14f84b40da9797bef100def0fe/artifacts
+end_time: 1718974216994
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: d56ddd14f84b40da9797bef100def0fe
+run_name: learned-snail-813
+run_uuid: d56ddd14f84b40da9797bef100def0fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718974215869
+status: 3
+tags: []
+user_id: alexandre

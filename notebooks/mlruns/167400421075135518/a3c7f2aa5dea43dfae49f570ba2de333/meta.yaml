@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/a3c7f2aa5dea43dfae49f570ba2de333/artifacts
+end_time: 1718821023385
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: a3c7f2aa5dea43dfae49f570ba2de333
+run_name: adaptable-swan-433
+run_uuid: a3c7f2aa5dea43dfae49f570ba2de333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718820792666
+status: 3
+tags: []
+user_id: alexandre

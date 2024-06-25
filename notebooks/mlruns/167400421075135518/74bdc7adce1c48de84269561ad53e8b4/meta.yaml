@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/74bdc7adce1c48de84269561ad53e8b4/artifacts
+end_time: 1719214496413
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 74bdc7adce1c48de84269561ad53e8b4
+run_name: spiffy-shad-202
+run_uuid: 74bdc7adce1c48de84269561ad53e8b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719214491297
+status: 3
+tags: []
+user_id: alexandre

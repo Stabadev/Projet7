@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/6990ec7f385042869e5e49c10f13c087/artifacts
+end_time: 1719216906233
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 6990ec7f385042869e5e49c10f13c087
+run_name: popular-yak-127
+run_uuid: 6990ec7f385042869e5e49c10f13c087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719216904935
+status: 3
+tags: []
+user_id: alexandre

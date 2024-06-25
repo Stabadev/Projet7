@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/fcb5099e297845d8a2fa9150f77769fa/artifacts
+end_time: 1718978563909
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: fcb5099e297845d8a2fa9150f77769fa
+run_name: puzzled-bat-542
+run_uuid: fcb5099e297845d8a2fa9150f77769fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718978417423
+status: 3
+tags: []
+user_id: alexandre

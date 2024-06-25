@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/985568a69cfd4b82838a16c1f772488c/artifacts
+end_time: 1718978417408
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 985568a69cfd4b82838a16c1f772488c
+run_name: colorful-ox-889
+run_uuid: 985568a69cfd4b82838a16c1f772488c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718978415002
+status: 3
+tags: []
+user_id: alexandre

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/3f40e04f4216416b9cbbf0826e23191a/artifacts
+end_time: 1718977636939
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 3f40e04f4216416b9cbbf0826e23191a
+run_name: awesome-shad-815
+run_uuid: 3f40e04f4216416b9cbbf0826e23191a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718977635575
+status: 3
+tags: []
+user_id: alexandre

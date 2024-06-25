@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/43a3e438dc624fd084910e13e03c4bd9/artifacts
+end_time: 1718978254656
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 43a3e438dc624fd084910e13e03c4bd9
+run_name: spiffy-horse-247
+run_uuid: 43a3e438dc624fd084910e13e03c4bd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718978159250
+status: 3
+tags: []
+user_id: alexandre

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/cd04879bc0f5439e936242873a1a8600/artifacts
+end_time: 1719218123366
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: cd04879bc0f5439e936242873a1a8600
+run_name: rare-eel-974
+run_uuid: cd04879bc0f5439e936242873a1a8600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719218106531
+status: 3
+tags: []
+user_id: alexandre

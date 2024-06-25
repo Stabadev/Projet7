@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/8269db347a644b1bbeb2406ceb95bea7/artifacts
+end_time: 1718973727002
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 8269db347a644b1bbeb2406ceb95bea7
+run_name: bright-trout-211
+run_uuid: 8269db347a644b1bbeb2406ceb95bea7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718973724784
+status: 3
+tags: []
+user_id: alexandre

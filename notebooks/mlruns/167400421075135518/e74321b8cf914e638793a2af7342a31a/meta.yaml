@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/e74321b8cf914e638793a2af7342a31a/artifacts
+end_time: 1719296232259
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: e74321b8cf914e638793a2af7342a31a
+run_name: wistful-robin-987
+run_uuid: e74321b8cf914e638793a2af7342a31a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719296229458
+status: 3
+tags: []
+user_id: alexandre

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/310601e69ae743f99102ae8660e6deee/artifacts
+end_time: 1718979835534
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 310601e69ae743f99102ae8660e6deee
+run_name: luminous-goose-156
+run_uuid: 310601e69ae743f99102ae8660e6deee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718979831803
+status: 3
+tags: []
+user_id: alexandre

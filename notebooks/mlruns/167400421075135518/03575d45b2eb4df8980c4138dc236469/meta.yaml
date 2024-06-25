@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/03575d45b2eb4df8980c4138dc236469/artifacts
+end_time: 1718978751477
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 03575d45b2eb4df8980c4138dc236469
+run_name: indecisive-tern-357
+run_uuid: 03575d45b2eb4df8980c4138dc236469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718978750317
+status: 3
+tags: []
+user_id: alexandre
