@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/6091afa528344709917d1299227909c0/artifacts
+end_time: 1719304083317
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 6091afa528344709917d1299227909c0
+run_name: gregarious-shark-74
+run_uuid: 6091afa528344709917d1299227909c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719304081282
+status: 3
+tags: []
+user_id: alexandre

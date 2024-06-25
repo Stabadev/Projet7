@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/740d41b268a046e1b3486028a3f8c318/artifacts
+end_time: 1719304079892
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 740d41b268a046e1b3486028a3f8c318
+run_name: righteous-swan-644
+run_uuid: 740d41b268a046e1b3486028a3f8c318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719304078771
+status: 3
+tags: []
+user_id: alexandre

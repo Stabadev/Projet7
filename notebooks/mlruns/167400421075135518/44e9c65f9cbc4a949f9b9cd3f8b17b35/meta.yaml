@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/44e9c65f9cbc4a949f9b9cd3f8b17b35/artifacts
+end_time: 1719304394027
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 44e9c65f9cbc4a949f9b9cd3f8b17b35
+run_name: mysterious-dog-287
+run_uuid: 44e9c65f9cbc4a949f9b9cd3f8b17b35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719304392766
+status: 3
+tags: []
+user_id: alexandre

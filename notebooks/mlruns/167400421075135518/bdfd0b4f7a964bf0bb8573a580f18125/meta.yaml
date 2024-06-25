@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/bdfd0b4f7a964bf0bb8573a580f18125/artifacts
+end_time: 1719304141374
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: bdfd0b4f7a964bf0bb8573a580f18125
+run_name: brawny-deer-371
+run_uuid: bdfd0b4f7a964bf0bb8573a580f18125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719304140216
+status: 3
+tags: []
+user_id: alexandre

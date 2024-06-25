@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/fecabb22fa5944fa864ae58b807ea4b5/artifacts
+end_time: 1719304127981
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: fecabb22fa5944fa864ae58b807ea4b5
+run_name: powerful-bear-514
+run_uuid: fecabb22fa5944fa864ae58b807ea4b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719304085093
+status: 4
+tags: []
+user_id: alexandre

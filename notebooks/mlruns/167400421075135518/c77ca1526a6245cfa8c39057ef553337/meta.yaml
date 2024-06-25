@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/c77ca1526a6245cfa8c39057ef553337/artifacts
+end_time: 1719304397267
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: c77ca1526a6245cfa8c39057ef553337
+run_name: rumbling-croc-663
+run_uuid: c77ca1526a6245cfa8c39057ef553337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719304395371
+status: 3
+tags: []
+user_id: alexandre
