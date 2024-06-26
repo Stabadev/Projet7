@@ -1,6 +1,7 @@
 # Ignorer tous les fichiers dans csv_files sauf app_datas_light_very_light.csv
 /csv_files/*
 !/csv_files/app_datas_light_very_light.csv
+!/csv_files/HomeCredit_columns_description.csv
 
 # Ignorer notebooks/mlartifacts/ et le fichier zip
 notebooks/mlartifacts/
