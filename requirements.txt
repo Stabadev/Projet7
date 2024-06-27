@@ -1,5 +1,16 @@
-Flask==3.0.3
-joblib==1.4.2
-numpy==2.0.0
-pandas==2.2.2
-shap==0.45.1
+# Voici les modules nécessaire à l'exécution des différents scripts présents dans le projet
+# Cette liste a été générée en parcourant chacun des fichiers *.ipynb et *.py présents dans les dossiers et sous-dossiers du projet
+datetime
+gc
+joblib
+json
+lightgbm
+matplotlib
+mlflow
+numpy
+os
+pandas
+seaborn
+shap
+time
+warnings

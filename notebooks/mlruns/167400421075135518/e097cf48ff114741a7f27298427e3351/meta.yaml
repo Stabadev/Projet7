@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/e097cf48ff114741a7f27298427e3351/artifacts
+end_time: 1719475331900
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: e097cf48ff114741a7f27298427e3351
+run_name: serious-donkey-837
+run_uuid: e097cf48ff114741a7f27298427e3351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719475329746
+status: 3
+tags: []
+user_id: alexandre
