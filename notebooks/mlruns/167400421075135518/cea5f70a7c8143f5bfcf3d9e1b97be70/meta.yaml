@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/cea5f70a7c8143f5bfcf3d9e1b97be70/artifacts
+end_time: 1719475329740
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: cea5f70a7c8143f5bfcf3d9e1b97be70
+run_name: calm-wolf-567
+run_uuid: cea5f70a7c8143f5bfcf3d9e1b97be70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719475328349
+status: 3
+tags: []
+user_id: alexandre

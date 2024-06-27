@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/df9756ed8bdb4f3982b6fdbd999d56eb/artifacts
+end_time: 1719475377762
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: df9756ed8bdb4f3982b6fdbd999d56eb
+run_name: thundering-trout-319
+run_uuid: df9756ed8bdb4f3982b6fdbd999d56eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719475333876
+status: 3
+tags: []
+user_id: alexandre
