@@ -1,6 +1,3 @@
-Voici une proposition de fichier `README.md` pour votre projet, adaptée à la nouvelle structure et aux informations supplémentaires :
-
-```markdown
 # Projet : Modèle de Scoring de Crédit
 
 ## Contexte
@@ -131,5 +128,3 @@ Les contributions sont les bienvenues ! Veuillez suivre les étapes suivantes po
 ## Contact
 
 Pour toute question, vous pouvez me contacter à [alexandre.rogues@gmail.com](mailto:alexandre.rogues@gmail.com).
-```
-
