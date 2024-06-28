@@ -12,7 +12,7 @@ app = Flask(__name__, template_folder=template_dir)
 model = joblib.load("../models/best_xgboost_model.pkl")
 
 # Charger les données clients une fois au démarrage de l'application
-client_data_df = pd.read_csv('../csv_files/app_datas_light.csv')
+client_data_df = pd.read_csv('../csv_files/app_datas_light_imputed_scaled.csv')
 
 # Essayer de charger les descriptions des caractéristiques avec différents encodages
 encodings = ['utf-8', 'latin1', 'iso-8859-1', 'cp1252']
