@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/633d628bcd894368bfbef9e283680f3c/artifacts
+end_time: 1719566935380
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 633d628bcd894368bfbef9e283680f3c
+run_name: traveling-skink-37
+run_uuid: 633d628bcd894368bfbef9e283680f3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719566932103
+status: 3
+tags: []
+user_id: alexandre

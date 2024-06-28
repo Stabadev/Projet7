@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/03e39bde950044418857678359c5d550/artifacts
+end_time: 1719561191622
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 03e39bde950044418857678359c5d550
+run_name: monumental-cat-971
+run_uuid: 03e39bde950044418857678359c5d550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719561189660
+status: 3
+tags: []
+user_id: alexandre

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/28e31fe1cbb14753b27ba84dc900c352/artifacts
+end_time: 1719563356025
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 28e31fe1cbb14753b27ba84dc900c352
+run_name: caring-calf-88
+run_uuid: 28e31fe1cbb14753b27ba84dc900c352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719563354622
+status: 3
+tags: []
+user_id: alexandre

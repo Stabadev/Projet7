@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/9a46a6ccf8b34654882eaf2e42288d7d/artifacts
+end_time: 1719560574467
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 9a46a6ccf8b34654882eaf2e42288d7d
+run_name: blushing-eel-745
+run_uuid: 9a46a6ccf8b34654882eaf2e42288d7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719560572066
+status: 3
+tags: []
+user_id: alexandre

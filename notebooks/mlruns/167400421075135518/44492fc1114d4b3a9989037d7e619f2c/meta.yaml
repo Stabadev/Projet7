@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/44492fc1114d4b3a9989037d7e619f2c/artifacts
+end_time: 1719561285304
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 44492fc1114d4b3a9989037d7e619f2c
+run_name: skittish-grouse-791
+run_uuid: 44492fc1114d4b3a9989037d7e619f2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719561239607
+status: 3
+tags: []
+user_id: alexandre

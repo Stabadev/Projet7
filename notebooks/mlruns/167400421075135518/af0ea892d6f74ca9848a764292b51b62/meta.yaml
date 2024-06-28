@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/af0ea892d6f74ca9848a764292b51b62/artifacts
+end_time: 1719561189653
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: af0ea892d6f74ca9848a764292b51b62
+run_name: peaceful-finch-301
+run_uuid: af0ea892d6f74ca9848a764292b51b62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719561187441
+status: 3
+tags: []
+user_id: alexandre

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/db0e9d03483e4954b1b97a463e6bc754/artifacts
+end_time: 1719560097703
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: db0e9d03483e4954b1b97a463e6bc754
+run_name: rebellious-dove-921
+run_uuid: db0e9d03483e4954b1b97a463e6bc754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719560095336
+status: 3
+tags: []
+user_id: alexandre

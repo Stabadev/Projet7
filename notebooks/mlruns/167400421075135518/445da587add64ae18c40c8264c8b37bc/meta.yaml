@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/445da587add64ae18c40c8264c8b37bc/artifacts
+end_time: 1719560146347
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 445da587add64ae18c40c8264c8b37bc
+run_name: wistful-rat-721
+run_uuid: 445da587add64ae18c40c8264c8b37bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719560099649
+status: 3
+tags: []
+user_id: alexandre
