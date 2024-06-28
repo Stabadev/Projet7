@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/eb80a2c96bce4ea5b4b59098d958e76c/artifacts
+end_time: 1719560621354
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: eb80a2c96bce4ea5b4b59098d958e76c
+run_name: grandiose-mare-210
+run_uuid: eb80a2c96bce4ea5b4b59098d958e76c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719560574482
+status: 3
+tags: []
+user_id: alexandre

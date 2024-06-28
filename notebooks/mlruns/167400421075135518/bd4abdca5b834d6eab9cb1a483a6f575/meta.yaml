@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/bd4abdca5b834d6eab9cb1a483a6f575/artifacts
+end_time: 1719563447424
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: bd4abdca5b834d6eab9cb1a483a6f575
+run_name: defiant-snake-435
+run_uuid: bd4abdca5b834d6eab9cb1a483a6f575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719563405458
+status: 3
+tags: []
+user_id: alexandre

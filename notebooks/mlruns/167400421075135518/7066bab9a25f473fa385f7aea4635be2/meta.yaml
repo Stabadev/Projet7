@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/7066bab9a25f473fa385f7aea4635be2/artifacts
+end_time: 1719563354614
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 7066bab9a25f473fa385f7aea4635be2
+run_name: enchanting-doe-765
+run_uuid: 7066bab9a25f473fa385f7aea4635be2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719563353344
+status: 3
+tags: []
+user_id: alexandre

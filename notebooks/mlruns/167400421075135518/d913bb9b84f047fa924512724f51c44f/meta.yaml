@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/d913bb9b84f047fa924512724f51c44f/artifacts
+end_time: 1719561185927
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: d913bb9b84f047fa924512724f51c44f
+run_name: aged-zebra-938
+run_uuid: d913bb9b84f047fa924512724f51c44f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719561184627
+status: 3
+tags: []
+user_id: alexandre

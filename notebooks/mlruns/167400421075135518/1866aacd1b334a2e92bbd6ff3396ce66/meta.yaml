@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/1866aacd1b334a2e92bbd6ff3396ce66/artifacts
+end_time: 1719560568153
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 1866aacd1b334a2e92bbd6ff3396ce66
+run_name: wistful-asp-296
+run_uuid: 1866aacd1b334a2e92bbd6ff3396ce66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719560566763
+status: 3
+tags: []
+user_id: alexandre

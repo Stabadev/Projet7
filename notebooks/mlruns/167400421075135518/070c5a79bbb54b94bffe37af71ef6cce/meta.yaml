@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/070c5a79bbb54b94bffe37af71ef6cce/artifacts
+end_time: 1719560569754
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 070c5a79bbb54b94bffe37af71ef6cce
+run_name: whimsical-boar-227
+run_uuid: 070c5a79bbb54b94bffe37af71ef6cce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719560568160
+status: 3
+tags: []
+user_id: alexandre

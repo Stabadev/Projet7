@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/4ba7d96c5ccb44508e8c2e3e20a68dff/artifacts
+end_time: 1719563405447
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 4ba7d96c5ccb44508e8c2e3e20a68dff
+run_name: painted-fox-710
+run_uuid: 4ba7d96c5ccb44508e8c2e3e20a68dff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719563360340
+status: 3
+tags: []
+user_id: alexandre

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/ee363b4bdd58400091f29e065ca56208/artifacts
+end_time: 1719566955142
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: ee363b4bdd58400091f29e065ca56208
+run_name: caring-sow-525
+run_uuid: ee363b4bdd58400091f29e065ca56208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719566952318
+status: 3
+tags: []
+user_id: alexandre
