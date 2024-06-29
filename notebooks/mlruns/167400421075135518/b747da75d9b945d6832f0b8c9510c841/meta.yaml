@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/b747da75d9b945d6832f0b8c9510c841/artifacts
+end_time: 1719665571441
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: b747da75d9b945d6832f0b8c9510c841
+run_name: fearless-lynx-158
+run_uuid: b747da75d9b945d6832f0b8c9510c841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719665528994
+status: 3
+tags: []
+user_id: alexandre

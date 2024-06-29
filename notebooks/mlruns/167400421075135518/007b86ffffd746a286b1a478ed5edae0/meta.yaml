@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/007b86ffffd746a286b1a478ed5edae0/artifacts
+end_time: 1719667493085
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 007b86ffffd746a286b1a478ed5edae0
+run_name: big-skink-524
+run_uuid: 007b86ffffd746a286b1a478ed5edae0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719667450850
+status: 3
+tags: []
+user_id: alexandre

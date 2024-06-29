@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/a474206c1d6b42b29c7a1975e39a6c80/artifacts
+end_time: 1719666703801
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: a474206c1d6b42b29c7a1975e39a6c80
+run_name: fun-kite-186
+run_uuid: a474206c1d6b42b29c7a1975e39a6c80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719666702518
+status: 3
+tags: []
+user_id: alexandre

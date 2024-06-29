@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/80ed9e25472447d9b8601b35fdfc6e6c/artifacts
+end_time: 1719665528983
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 80ed9e25472447d9b8601b35fdfc6e6c
+run_name: salty-mouse-23
+run_uuid: 80ed9e25472447d9b8601b35fdfc6e6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719665486168
+status: 3
+tags: []
+user_id: alexandre

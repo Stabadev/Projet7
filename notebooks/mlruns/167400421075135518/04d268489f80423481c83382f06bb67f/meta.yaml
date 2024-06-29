@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/04d268489f80423481c83382f06bb67f/artifacts
+end_time: 1719667404102
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 04d268489f80423481c83382f06bb67f
+run_name: calm-cow-984
+run_uuid: 04d268489f80423481c83382f06bb67f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719667402850
+status: 3
+tags: []
+user_id: alexandre

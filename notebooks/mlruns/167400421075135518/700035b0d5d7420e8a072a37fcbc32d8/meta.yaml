@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/700035b0d5d7420e8a072a37fcbc32d8/artifacts
+end_time: 1719666705157
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 700035b0d5d7420e8a072a37fcbc32d8
+run_name: indecisive-elk-247
+run_uuid: 700035b0d5d7420e8a072a37fcbc32d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719666703807
+status: 3
+tags: []
+user_id: alexandre
