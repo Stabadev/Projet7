@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/0072cb757fbd489a94b7feb1b957d1e0/artifacts
+end_time: 1719664343405
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 0072cb757fbd489a94b7feb1b957d1e0
+run_name: polite-carp-803
+run_uuid: 0072cb757fbd489a94b7feb1b957d1e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719664298048
+status: 3
+tags: []
+user_id: alexandre

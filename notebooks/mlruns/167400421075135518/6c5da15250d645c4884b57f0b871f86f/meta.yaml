@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/6c5da15250d645c4884b57f0b871f86f/artifacts
+end_time: 1719666970694
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 6c5da15250d645c4884b57f0b871f86f
+run_name: amusing-swan-166
+run_uuid: 6c5da15250d645c4884b57f0b871f86f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719666967139
+status: 3
+tags: []
+user_id: alexandre

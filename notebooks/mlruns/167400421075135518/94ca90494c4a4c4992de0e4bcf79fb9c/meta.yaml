@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/94ca90494c4a4c4992de0e4bcf79fb9c/artifacts
+end_time: 1719667056118
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 94ca90494c4a4c4992de0e4bcf79fb9c
+run_name: enthused-dove-988
+run_uuid: 94ca90494c4a4c4992de0e4bcf79fb9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719667013996
+status: 3
+tags: []
+user_id: alexandre

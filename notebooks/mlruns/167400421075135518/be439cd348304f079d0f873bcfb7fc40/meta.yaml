@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/be439cd348304f079d0f873bcfb7fc40/artifacts
+end_time: 1719664298032
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: be439cd348304f079d0f873bcfb7fc40
+run_name: luxuriant-goat-386
+run_uuid: be439cd348304f079d0f873bcfb7fc40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719664296238
+status: 3
+tags: []
+user_id: alexandre
