@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/73783c1255fb4095afae81736f1d6552/artifacts
+end_time: 1719994939258
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 73783c1255fb4095afae81736f1d6552
+run_name: upset-ant-326
+run_uuid: 73783c1255fb4095afae81736f1d6552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719994937502
+status: 3
+tags: []
+user_id: alexandre
