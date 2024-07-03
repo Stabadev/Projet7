@@ -1,7 +1,7 @@
 Flask
 joblib
-pandas
-numpy
-shap
-xgboost
+pandas==1.2.3
+numpy==1.19.2
+shap==0.39.0
+xgboost==1.4.2
 gunicorn
