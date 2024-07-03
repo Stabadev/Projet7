@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Client Prediction</title>
+    <style>
+        .importance-table {
+            border-collapse: collapse;
+            width: 50%;
+            margin-top: 20px;
+        }
+        .importance-table th, .importance-table td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        .importance-table th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Client Prediction</h1>
+    <form action="/predict" method="post">
+        <label for="client_id">Client ID:</label>
+        <input type="text" id="client_id" name="client_id" required>
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if prediction is not none %}
+        <h2>Prediction: {{ prediction }}</h2>
+    {% endif %}
+
+    {% if global_importances is not none %}
+        <h2>Global Feature Importances</h2>
+        <table class="importance-table">
+            <tr>
+                <th>Feature</th>
+                <th>Description</th>
+                <th>Importance</th>
+            </tr>
+            {% for index, row in global_importances.iterrows() %}
+            <tr>
+                <td>{{ row['Feature'] }}</td>
+                <td>{{ row['Description'] }}</td>
+                <td>{{ row['Importance'] }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    {% endif %}
+
+    {% if local_importances is not none %}
+        <h2>Local Feature Importances</h2>
+        <table class="importance-table">
+            <tr>
+                <th>Feature</th>
+                <th>Description</th>
+                <th>Importance</th>
+            </tr>
+            {% for index, row in local_importances.iterrows() %}
+            <tr>
+                <td>{{ row['Feature'] }}</td>
+                <td>{{ row['Description'] }}</td>
+                <td>{{ row['Importance'] }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    {% endif %}
+</body>
+</html>
