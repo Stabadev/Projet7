@@ -3,4 +3,5 @@ joblib
 pandas
 numpy
 shap
+xgboost
 gunicorn
