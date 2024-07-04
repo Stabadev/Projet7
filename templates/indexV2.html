@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Client Prediction</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .importance-table {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center mt-5">Bienvenue dans l'interface de prédiction de remboursement</h1>
+        <form action="/predict" method="post" class="mt-4">
+            <div class="form-group">
+                <label for="client_id">Client ID:</label>
+                <input type="text" id="client_id" name="client_id" class="form-control" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Predict</button>
+        </form>
+
+        {% if prediction is not none %}
+            <h2 class="mt-5">Prediction: {{ prediction }}</h2>
+
+            {% if global_importances is not none %}
+                <h2 class="mt-5">Global Feature Importances</h2>
+                <table class="table table-bordered importance-table">
+                    <thead class="thead-light">
+                        <tr>
+                            <th>Feature</th>
+                            <th>Description</th>
+                            <th>Importance</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for index, row in global_importances.iterrows() %}
+                        <tr>
+                            <td>{{ row['Feature'] }}</td>
+                            <td>{{ row['Description'] }}</td>
+                            <td>{{ row['Importance'] }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            {% endif %}
+
+            {% if local_importances is not none %}
+                <h2 class="mt-5">Local Feature Importances</h2>
+                <table class="table table-bordered importance-table">
+                    <thead class="thead-light">
+                        <tr>
+                            <th>Feature</th>
+                            <th>Description</th>
+                            <th>Importance</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for index, row in local_importances.iterrows() %}
+                        <tr>
+                            <td>{{ row['Feature'] }}</td>
+                            <td>{{ row['Description'] }}</td>
+                            <td>{{ row['Importance'] }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            {% endif %}
+        {% endif %}
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
