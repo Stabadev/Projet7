@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, Blueprint, request, jsonify, render_template
 import joblib
 import pandas as pd
 import numpy as np
@@ -9,6 +9,8 @@ import os
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 template_dir = os.path.join(BASE_DIR, '../templates')
 app = Flask(__name__, template_folder=template_dir)
+
+bp = Blueprint('projet7', __name__, url_prefix='/site/projet7')
 
 # Charger le modèle
 model_path = os.path.join(BASE_DIR, "../models/best_xgboost_model.pkl")
@@ -59,11 +61,11 @@ def get_client_data(client_id):
     # Convertir les données en format nécessaire pour le modèle
     return client_data.values.flatten()
 
-@app.route('/')
+@bp.route('/')
 def index():
     return render_template('indexV2.html', prediction=None, local_importances=None, global_importances=None)
 
-@app.route('/predict', methods=['POST'])
+@bp.route('/predict', methods=['POST'])
 def predict():
     client_id = int(request.form['client_id'])
     client_data = get_client_data(client_id)
@@ -88,6 +90,8 @@ def predict():
     global_importances_df['Importance'] = global_importances_df['Importance'].round(3)
     
     return render_template('indexV2.html', prediction=int(prediction[0]), local_importances=local_importances_df, global_importances=global_importances_df)
+
+app.register_blueprint(bp)
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5001)
