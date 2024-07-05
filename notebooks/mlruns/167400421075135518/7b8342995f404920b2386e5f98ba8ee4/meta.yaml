@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/7b8342995f404920b2386e5f98ba8ee4/artifacts
+end_time: 1720115821623
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 7b8342995f404920b2386e5f98ba8ee4
+run_name: popular-loon-933
+run_uuid: 7b8342995f404920b2386e5f98ba8ee4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720115819819
+status: 3
+tags: []
+user_id: alexandre

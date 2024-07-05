@@ -1,0 +1,27 @@
+name: Deploy to VPS
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up SSH
+      uses: webfactory/ssh-agent@v0.5.3
+      with:
+        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+    - name: Deploy application
+      run: |
+        ssh -o StrictHostKeyChecking=no arogues@137.74.198.208 << 'EOF'
+          cd /var/www/my_webapp__2/Projet7/src
+          pkill gunicorn || true
+          gunicorn --bind 0.0.0.0:8000 app:app
+        EOF

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/f6e8f5c97fe14bbab834f7c4efcce7f8/artifacts
+end_time: 1720115903912
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: f6e8f5c97fe14bbab834f7c4efcce7f8
+run_name: victorious-sow-197
+run_uuid: f6e8f5c97fe14bbab834f7c4efcce7f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720115861981
+status: 3
+tags: []
+user_id: alexandre
