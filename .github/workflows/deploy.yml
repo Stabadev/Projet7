@@ -31,7 +31,7 @@ jobs:
           
           # Se déplacer dans le nouveau dossier et cloner le dépôt
           cd $NEW_DIR
-          git clone https://github.com/Stabadev/Projet7.git .
+          git clone --branch master https://github.com/Stabadev/Projet7.git .
           
           # Afficher le message de succès
           echo "La nouvelle version du projet est copiée sur le serveur. Veuillez vous connecter, déplacer le dossier puis exécuter les instructions suivantes :"
