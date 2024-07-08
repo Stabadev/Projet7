@@ -21,7 +21,21 @@ jobs:
     - name: Deploy application
       run: |
         ssh -o StrictHostKeyChecking=no arogues@137.74.198.208 << 'EOF'
-          cd /var/www/my_webapp__2/Projet7/src
-          pkill gunicorn || true
-          gunicorn --bind 0.0.0.0:8000 app:app
+          # Aller dans le dossier
+          cd /var/www/my_webapp__2/www
+          
+          # Créer un nouveau dossier avec un timestamp
+          TIMESTAMP=$(date +'%d%m%y_%H%M%S')
+          NEW_DIR="toDeploy_${TIMESTAMP}_Projet7"
+          mkdir $NEW_DIR
+          
+          # Se déplacer dans le nouveau dossier et cloner le dépôt
+          cd $NEW_DIR
+          git clone https://github.com/Stabadev/Projet7.git .
+          
+          # Afficher le message de succès
+          echo "La nouvelle version du projet est copiée sur le serveur. Veuillez vous connecter, déplacer le dossier puis exécuter les instructions suivantes :"
+          echo "sudo systemctl daemon-reload"
+          echo "sudo systemctl restart my_webapp.service"
+          echo "Merci de votre collaboration."
         EOF
