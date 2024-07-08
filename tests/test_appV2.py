@@ -25,7 +25,7 @@ class AppTestCase(unittest.TestCase):
         self.assertIn(b'Bienvenue dans l\'interface de pr\xc3\xa9diction de remboursement', result.data)
 
     def test_predict(self):
-        client_id = 455956  # Client ID pour le test
+        client_id = 201132  # Client ID pour le test
         client_data = get_client_data(client_id)
         if client_data is not None:
             response = self.app.post('/site/projet7/predict', data=dict(client_id=str(client_id)))

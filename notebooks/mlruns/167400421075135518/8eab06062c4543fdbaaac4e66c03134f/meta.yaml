@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/8eab06062c4543fdbaaac4e66c03134f/artifacts
+end_time: 1720434525689
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 8eab06062c4543fdbaaac4e66c03134f
+run_name: unique-calf-118
+run_uuid: 8eab06062c4543fdbaaac4e66c03134f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720434522848
+status: 3
+tags: []
+user_id: alexandre
