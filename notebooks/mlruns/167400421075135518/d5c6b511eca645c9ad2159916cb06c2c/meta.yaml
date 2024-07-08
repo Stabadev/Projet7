@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/d5c6b511eca645c9ad2159916cb06c2c/artifacts
+end_time: 1720423969771
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: d5c6b511eca645c9ad2159916cb06c2c
+run_name: worried-bat-630
+run_uuid: d5c6b511eca645c9ad2159916cb06c2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720423751906
+status: 3
+tags: []
+user_id: alexandre

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/36f912cebace4f8886c4ae8c91349c2d/artifacts
+end_time: 1720423519344
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 36f912cebace4f8886c4ae8c91349c2d
+run_name: agreeable-conch-56
+run_uuid: 36f912cebace4f8886c4ae8c91349c2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720423516233
+status: 3
+tags: []
+user_id: alexandre

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/7f0b2e75a7594e5fbe0645a87c89efdf/artifacts
+end_time: 1720423751895
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 7f0b2e75a7594e5fbe0645a87c89efdf
+run_name: thoughtful-jay-46
+run_uuid: 7f0b2e75a7594e5fbe0645a87c89efdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720423538335
+status: 3
+tags: []
+user_id: alexandre
