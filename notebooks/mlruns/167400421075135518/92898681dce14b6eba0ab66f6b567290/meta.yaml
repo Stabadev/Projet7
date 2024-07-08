@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/92898681dce14b6eba0ab66f6b567290/artifacts
+end_time: 1720439722702
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 92898681dce14b6eba0ab66f6b567290
+run_name: flawless-chimp-518
+run_uuid: 92898681dce14b6eba0ab66f6b567290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720439705761
+status: 3
+tags: []
+user_id: alexandre

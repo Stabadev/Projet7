@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/dc4af1858b5e4701be4559e6345ae661/artifacts
+end_time: 1720439725748
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: dc4af1858b5e4701be4559e6345ae661
+run_name: dapper-sow-902
+run_uuid: dc4af1858b5e4701be4559e6345ae661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720439722710
+status: 3
+tags: []
+user_id: alexandre

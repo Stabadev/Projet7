@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/c936f5a7813e4fa589fdc239e488a8ab/artifacts
+end_time: 1720439702204
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: c936f5a7813e4fa589fdc239e488a8ab
+run_name: abrasive-gull-288
+run_uuid: c936f5a7813e4fa589fdc239e488a8ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720439700944
+status: 3
+tags: []
+user_id: alexandre

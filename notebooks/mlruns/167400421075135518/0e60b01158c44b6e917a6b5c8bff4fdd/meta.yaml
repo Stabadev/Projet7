@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/0e60b01158c44b6e917a6b5c8bff4fdd/artifacts
+end_time: 1720439705754
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 0e60b01158c44b6e917a6b5c8bff4fdd
+run_name: enthused-rat-351
+run_uuid: 0e60b01158c44b6e917a6b5c8bff4fdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720439702212
+status: 3
+tags: []
+user_id: alexandre
