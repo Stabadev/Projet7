@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/6a8c80adca0640d8a514b9eabd10da72/artifacts
+end_time: 1720521233847
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: 6a8c80adca0640d8a514b9eabd10da72
+run_name: gentle-crow-736
+run_uuid: 6a8c80adca0640d8a514b9eabd10da72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720521019197
+status: 3
+tags: []
+user_id: alexandre

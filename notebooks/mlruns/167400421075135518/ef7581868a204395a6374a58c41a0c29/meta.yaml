@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/ef7581868a204395a6374a58c41a0c29/artifacts
+end_time: 1720524199208
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: ef7581868a204395a6374a58c41a0c29
+run_name: stately-colt-642
+run_uuid: ef7581868a204395a6374a58c41a0c29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720523983422
+status: 3
+tags: []
+user_id: alexandre

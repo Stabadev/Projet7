@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/de7709ba9b834dad85ff88b6fed613b2/artifacts
+end_time: 1720524427650
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: de7709ba9b834dad85ff88b6fed613b2
+run_name: glamorous-ape-617
+run_uuid: de7709ba9b834dad85ff88b6fed613b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720524199220
+status: 3
+tags: []
+user_id: alexandre

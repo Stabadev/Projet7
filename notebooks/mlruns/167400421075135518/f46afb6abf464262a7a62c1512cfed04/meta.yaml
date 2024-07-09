@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167400421075135518/f46afb6abf464262a7a62c1512cfed04/artifacts
+end_time: 1720521019183
+entry_point_name: ''
+experiment_id: '167400421075135518'
+lifecycle_stage: active
+run_id: f46afb6abf464262a7a62c1512cfed04
+run_name: victorious-calf-66
+run_uuid: f46afb6abf464262a7a62c1512cfed04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720521016312
+status: 3
+tags: []
+user_id: alexandre
